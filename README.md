@@ -2,6 +2,7 @@ This is a Windows compiler for Beta3DS, a port of b1.7.3 Minecraft to the 3DS Fa
 
 REQUIRED
 - a .jar of version b1.7.3
+- resources folder from .jar
 - dsp.firm file for audio
 
 Makes the 3ds folder for Beta3DS, so you don't have to copy files by hand.
